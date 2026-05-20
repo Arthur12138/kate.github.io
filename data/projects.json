@@ -1,0 +1,20 @@
+[
+  {
+    "name": "个人主页",
+    "description": "一个支持随机背景图与随机文案的静态网站首页。",
+    "demo": "./index.html",
+    "github": "https://github.com/"
+  },
+  {
+    "name": "项目展示页",
+    "description": "通过本地 JSON 配置生成项目卡片，适合作品集展示。",
+    "demo": "./projects.html",
+    "github": "https://github.com/"
+  },
+  {
+    "name": "链接导航页",
+    "description": "集中管理站内页面与社交媒体链接，方便统一跳转。",
+    "demo": "./links.html",
+    "github": "https://github.com/"
+  }
+]

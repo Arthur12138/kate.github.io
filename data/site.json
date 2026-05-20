@@ -1,0 +1,38 @@
+{
+  "title": "胡清云 | 个人主页",
+  "name": "胡清云",
+  "subtitle": "拯救世界",
+  "logo": "./assets/logo.png",
+  "navLinks": [
+    {
+      "name": "首页",
+      "url": "./index.html"
+    },
+    {
+      "name": "关于",
+      "url": "./about.html"
+    },
+    {
+      "name": "项目",
+      "url": "./projects.html"
+    },
+    {
+      "name": "链接",
+      "url": "./links.html"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "公众号",
+      "url": "./assets/极简子.png"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://space.bilibili.com/353020441?spm_id_from=333.1387.0.0"
+    },
+    {
+      "name": "小红书",
+      "url": "https://xhslink.com/m/1SdQ1JcDjoq"
+    }
+  ]
+}

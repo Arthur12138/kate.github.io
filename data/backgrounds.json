@@ -1,0 +1,18 @@
+[
+  {
+    "url": "./assets/backgrounds/bg1.jpg",
+    "title": "背景图1"
+  },
+  {
+    "url": "./assets/backgrounds/bg2.jpg",
+    "title": "背景图2"
+  },
+  {
+    "url": "./assets/backgrounds/bg3.jpg",
+    "title": "背景图3"
+  },
+  {
+    "url": "./assets/backgrounds/bg4.jpg",
+    "title": "背景图4"
+  }
+]
